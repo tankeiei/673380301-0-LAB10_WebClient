@@ -29,8 +29,8 @@ public class ProductRepository {
 
     // ── Constructor: ใส่ข้อมูลตัวอย่าง ──────────────────
     public ProductRepository() {
-        store.put("1", new Product("1", "iPhone 15 Pro (67XXXXXXXX-X SEC 1)",
-                "Electronics", "Apple", 50, 39900.0, "MEMBER"));
+        store.put("1", new Product("1", "iPhone 15 Pro (แทนคุณ 673380301-0 SEC 1)",
+        "Electronics", "Apple", 50, 39900.0, "MEMBER"));
         store.put("2", new Product("2", "MacBook Air M3",
                 "Electronics", "Apple", 20, 49900.0, "NONE"));
         store.put("3", new Product("3", "Samsung Galaxy S24",
